@@ -1,0 +1,62 @@
+body {
+  background-image: url(https://wallpapersprinted.com//cache/thumbnails/6c/cd/25/windows_8_1_wallpaper_remodeled-t2.jpg);
+  text-align: center;
+}
+
+h1 {
+  color: #0f2c67;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  color: #436d3e;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+li {
+  color: #041c27;
+  font-weight: bold;
+  font: size 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-indent: 5px;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+ul {
+  list-style: none;
+  size: 2em;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+textarea {
+  background-color: orange;
+  width: 200px;
+  height: 70px;
+  padding: auto;
+  box-sizing: border-box;
+  border: 1px solid white;
+  border: radius 2px;
+  font-size: 12px;
+  resize: none;
+}
+
+button {
+  background-color: #f8f8f8;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: greenyellow;
+  color: black;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: cursive;
+}
